@@ -1,0 +1,13 @@
+h1, h2 {
+  font-family: Lato;
+}
+td {
+  background-color: black;
+  width: 65px;
+  height: 65px;
+  text-align: center;
+}
+
+.noPieceHere {
+ background-color: red
+}
